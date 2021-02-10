@@ -1,0 +1,9 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+      "outDir": "JS_Dir",
+      "target": "es5",
+    },
+    "files": ["server.ts"]
+  }
+  
